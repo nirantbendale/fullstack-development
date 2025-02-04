@@ -2,6 +2,9 @@
 
 A web application for multiplying two numbers and storing results in a MySQL database.
 
+
+[Watch full video](https://github.com/nirantbendale/fullstack-development/multiplication_calculator.mp4)
+
 ## Setup Instructions
 
 1. Install dependencies:
