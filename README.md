@@ -11,7 +11,7 @@ A web application for multiplying two numbers and storing results in a MySQL dat
    npm install
 
    # Backend
-   cd ../backend
+   cd backend
    npm install
    ```
 
