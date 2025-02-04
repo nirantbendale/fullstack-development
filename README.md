@@ -3,7 +3,7 @@
 A web application for multiplying two numbers and storing results in a MySQL database.
 
 
-[Watch full video](https://github.com/nirantbendale/fullstack-development/multiplication_calculator.mp4)
+[Watch full video](https://drive.google.com/file/d/10YSqrV31_0pBJDoHdxOq5wEUONuHlzMJ/view?usp=sharing)
 
 ## Setup Instructions
 
